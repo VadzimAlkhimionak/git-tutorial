@@ -1,1 +1,1 @@
-console.log("git + webpack changed");
+console.log("git + webpack conflict");
